@@ -4,2008 +4,2911 @@
     "Tipo de Proveedor": "BOOZ ONLINE",
     "Datos Proveedor": "https://www.booz.cl/productos/Aceite%20Oliva%20Izaro%20Premium%20Bid%C3%B3n%20de%205%20Litros",
     "Frecuencia Compra": "MENSUAL",
-    "Cantidad Minima": 5
+    "Cantidad Minima": 5,
+    "Unidad": "Lt"
   },
   {
     "Item": "ACEITE DE SOYA MULTIPROPÓSITO",
-    "Tipo de Proveedor": "???",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "WHATSAPP Y ONLINE",
+    "Datos Proveedor": "CRISTOFER O BUSCAR WEB",
     "Frecuencia Compra": "MENSUAL",
-    "Cantidad Minima": "?"
+    "Cantidad Minima": 55,
+    "Unidad": "Lt"
   },
   {
     "Item": "ACEITE DE SÉSAMO",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
-    "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Tipo de Proveedor": "LA VEGA PRESENCIAL",
+    "Datos Proveedor": "TIENDA FISICA",
+    "Frecuencia Compra": "MENSUAL",
+    "Cantidad Minima": 0.25,
+    "Unidad": "Lt"
   },
   {
     "Item": "ACEITE VEGETAL",
     "Tipo de Proveedor": "LIDER ONLINE",
     "Datos Proveedor": "https://www.lider.cl/supermercado/product/sku/4562924/lider-aceite-vegetal-5-l",
     "Frecuencia Compra": "MENSUAL",
-    "Cantidad Minima": "?"
+    "Cantidad Minima": 20,
+    "Unidad": "Lt"
   },
   {
     "Item": "ACEITUNAS NEGRAS",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "ACELGA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "ACETO BALSÁMICO",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
-    "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Tipo de Proveedor": "LIDER ONLINE",
+    "Datos Proveedor": "LIDER ONLINE",
+    "Frecuencia Compra": "MENSUAL",
+    "Cantidad Minima": "",
+    "Unidad": "Lt"
   },
   {
     "Item": "ADEREZO CÉSAR",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "AGUA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Lt"
+  },
+  {
+    "Item": "AGUA CON GAS",
+    "Tipo de Proveedor": "COCACOLA ONLINE",
+    "Datos Proveedor": "PROVEEDOR WHATSAPP",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
+  },
+  {
+    "Item": "AGUA SIN GAS",
+    "Tipo de Proveedor": "COCACOLA ONLINE",
+    "Datos Proveedor": "PROVEEDOR WHATSAPP",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
+  },
+  {
+    "Item": "AGUA TÓNICA",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "AJI CACHO CABRA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "AJI ROCOTO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "AJI VERDE CHILENO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "AJINOMOTO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "AJO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "AJO EN POLVO",
     "Tipo de Proveedor": "LIDER ONLINE",
     "Datos Proveedor": "https://www.lider.cl/supermercado/product/sku/1031584/gourmet-ajo-en-polvo?channable=050ee76964003130333135383459&gad_source=1&gclid=CjwKCAjwupGyBhBBEiwA0UcqaPUDGK9wL0Z9ub8V47GvUloJup6EBSw4DXw1iKtKANXS9QJZ-GEm0hoCOlIQAvD_BwE&gclsrc=aw.ds",
     "Frecuencia Compra": "MENSUAL",
-    "Cantidad Minima": 0.45
+    "Cantidad Minima": 0.45,
+    "Unidad": "Kg"
   },
   {
     "Item": "ALBAHACA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "ALCOHOL",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Lt"
+  },
+  {
+    "Item": "ALITAS CRUJIENTES COCIDA",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "ALITAS DE POLLO CRUJIENTES",
     "Tipo de Proveedor": "???",
     "Datos Proveedor": "??",
     "Frecuencia Compra": "QUINCENAL",
-    "Cantidad Minima": "?"
+    "Cantidad Minima": "?",
+    "Unidad": "Kg"
   },
   {
     "Item": "AMARETTO DISARONNO",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 0,
+    "Unidad": "Lt"
   },
   {
     "Item": "AMARETTO TRES PLUMAS",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
   },
   {
     "Item": "AMARGO DE ANGOSTURA",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
   },
   {
     "Item": "APEROL",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
   },
   {
     "Item": "APIO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "AROS DE CEBOLLA CONGELADOS",
     "Tipo de Proveedor": "???",
     "Datos Proveedor": "???",
     "Frecuencia Compra": "QUINCENAL",
-    "Cantidad Minima": 2
+    "Cantidad Minima": 2,
+    "Unidad": "Kg"
   },
   {
     "Item": "AROS DE CEBOLLA FRITOS",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "ARROZ",
     "Tipo de Proveedor": "LIDER ONLINE",
     "Datos Proveedor": "https://www.lider.cl/supermercado/product/sku/857384/tucapel-arroz-blue-bonnet-grado-1?channable=050ee769640038353733383491&gad_source=1&gclid=CjwKCAjwupGyBhBBEiwA0UcqaEy4tc5jlJwqpwaOVu8v8zRpvl3q7EH_eKLQS2-jleJJXP9273f9URoCYu0QAvD_BwE&gclsrc=aw.ds",
     "Frecuencia Compra": "QUINCENAL",
-    "Cantidad Minima": 8
+    "Cantidad Minima": 8,
+    "Unidad": "Kg"
   },
   {
     "Item": "ARROZ BASMATI",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "ARROZ COCIDO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "ARVEJAS CONGELADAS",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
+  },
+  {
+    "Item": "ASAHI SUPER DRY",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 12,
+    "Unidad": "Lt"
+  },
+  {
+    "Item": "AUSTRAL CALAFATE 330",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 12,
+    "Unidad": "Lt"
   },
   {
     "Item": "AZÚCAR BLANCA",
     "Tipo de Proveedor": "LIDER ONLINE",
     "Datos Proveedor": "https://www.lider.cl/supermercado/product/sku/579038/lider-azucar-blanca-1-kg",
     "Frecuencia Compra": "MENSUAL",
-    "Cantidad Minima": 10
+    "Cantidad Minima": 10,
+    "Unidad": "Kg"
   },
   {
     "Item": "AZÚCAR MORENA",
     "Tipo de Proveedor": "LIDER ONLINE",
     "Datos Proveedor": "https://www.lider.cl/supermercado/product/sku/997684/lider-azucar-rubia-1-kg",
     "Frecuencia Compra": "MENSUAL",
-    "Cantidad Minima": "?"
+    "Cantidad Minima": "?",
+    "Unidad": "Kg"
   },
   {
     "Item": "BACARDI COCO",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 3,
+    "Unidad": "Lt"
   },
   {
     "Item": "BALLANTINES 12 AÑOS",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 1,
+    "Unidad": ""
   },
   {
     "Item": "BARBECUE",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "BARBECUE JACK DANIELS",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "BICARBONATO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "BISTEC DE ASIENTO",
     "Tipo de Proveedor": "SAN PABLO WHATSAPP",
     "Datos Proveedor": "SAN PABLO",
     "Frecuencia Compra": "QUINCENAL",
-    "Cantidad Minima": 15
+    "Cantidad Minima": 15,
+    "Unidad": "Kg"
+  },
+  {
+    "Item": "BISTEC SEITA CORTE SALTADO",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "BISTEC SEITAN",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "BLACK LABEL",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
   },
   {
     "Item": "BLUE CURACAO",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 5,
+    "Unidad": "Lt"
   },
   {
     "Item": "BOL ENSALADA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "BOLSA DE PAPEL L",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "BOLSAS CAMISETA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "BOLSAS PARA BASURA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "unid"
   },
   {
     "Item": "BOLSAS PARA PORCIONAR",
     "Tipo de Proveedor": "LIDER ONLINE",
     "Datos Proveedor": "https://www.lider.cl/supermercado/product/sku/645071/acuenta-bolsa-multiuso-20-x-30?channable=050ee76964003634353037312c&gad_source=1&gclid=CjwKCAjwupGyBhBBEiwA0UcqaDiPaGlKF6lDjAh1nJ6HQv6d-s1qmy15N_eXzg0psvcfmUgTZOaDBxoCuu8QAvD_BwE&gclsrc=aw.ds",
     "Frecuencia Compra": "MENSUAL",
-    "Cantidad Minima": 20
+    "Cantidad Minima": 20,
+    "Unidad": "Unid"
   },
   {
     "Item": "BOMBILLAS",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "BOMBILLAS DE PAPEL",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "BROCHETAS",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "BUCHANANS 12 AÑOS",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
+  },
+  {
+    "Item": "BUDWEISSER",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 12,
+    "Unidad": "Lt"
   },
   {
     "Item": "CACHAZA",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
   },
   {
     "Item": "CAJA PAPAS INDIVIDUALES",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "CAJAS GRANDES (503)",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "CAJAS PEQUEÑAS",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "CALDO DE VEGETALES",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "CAMARON 100/200",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
+  },
+  {
+    "Item": "CAMARON 36/40 COCIDO",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "CAMARÓN 36/40",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "CAMARÓN APANADO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "CAMPARI BITTER",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Lt"
   },
   {
     "Item": "CARNE COCINADA PRUEBA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
-    "Item": "CASIQUE 500",
+    "Item": "CARNE DE HAMBURGUESA 150",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": ""
+  },
+  {
+    "Item": "CARNE MECHADA",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
+  },
+  {
+    "Item": "CASIQUE 500",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
+  },
+  {
+    "Item": "CASTILLO DE MOLINA GRAN RESERVA",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 2,
+    "Unidad": "Lt"
   },
   {
     "Item": "CEBOLLA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "CEBOLLA CARAMELIZADA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "CEBOLLA CRISPY",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "CEBOLLA EN POLVO",
     "Tipo de Proveedor": "LIDER ONLINE",
     "Datos Proveedor": "https://www.lider.cl/supermercado/product/sku/937924/lider-cebolla-en-polvo-15-g",
     "Frecuencia Compra": "MENSUAL",
-    "Cantidad Minima": 0.45
+    "Cantidad Minima": 0.45,
+    "Unidad": "Kg"
   },
   {
     "Item": "CEBOLLA MORADA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "CEBOLLA SALTEADA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
+  },
+  {
+    "Item": "CEBOLLIN",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "CEREZA CONFITADA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
+  },
+  {
+    "Item": "CERVEZA AUSTRAL CALAFATE 500CC",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 60,
+    "Unidad": "Unid"
   },
   {
     "Item": "CERVEZA DE JENGIBRE BRITVIC",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 48,
+    "Unidad": "Unid"
+  },
+  {
+    "Item": "CERVEZA ERDINGUER URWEISSE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 9,
+    "Unidad": "Unid"
+  },
+  {
+    "Item": "CERVEZA ERDINGUER WEISSBIER",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 9,
+    "Unidad": "Unid"
+  },
+  {
+    "Item": "CERVEZA KUNSTMANN TOROBAYO 500CC",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 60,
+    "Unidad": "Unid"
+  },
+  {
+    "Item": "CERVEZA STELLA ARTOIS 1000CC",
+    "Tipo de Proveedor": "COCACOLA",
+    "Datos Proveedor": "COCACOLA",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
+  },
+  {
+    "Item": "CERVEZA ZULIA",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "CHAMPIÑON",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "CHAMPIÑONES GRILLADOS",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "CHICKEN FINGERS CONGELADOS",
     "Tipo de Proveedor": "GLOBAL FROOZEN WHATSAPP",
     "Datos Proveedor": "NUMERO TELEFONO",
     "Frecuencia Compra": "QUINCENAL",
-    "Cantidad Minima": 6
+    "Cantidad Minima": 6,
+    "Unidad": "Kg"
+  },
+  {
+    "Item": "CHICKEN FINGERS FRITOS",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "CHIMI CONTRASTE",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "CHIMI PICANTE",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "CHIVAS REGAL",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
   },
   {
     "Item": "CHOCLO CONGELADO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "CHORIZO WINTER",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "CHULETA CENTRO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
+  },
+  {
+    "Item": "CHULETA COLACIÓN",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
+  },
+  {
+    "Item": "CHURRASCO DE CERDO",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
+  },
+  {
+    "Item": "CHURRASCO DE LOMO COCIDO",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "CIBOULETTE",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "CILANTRPO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
+  },
+  {
+    "Item": "COCA COLA",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
+  },
+  {
+    "Item": "COCA COLA ZERO",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "CODA CREAM ALE 30LT",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Lt"
+  },
+  {
+    "Item": "CODA RED ALE 30LT",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "COFIAS CAJA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "COINTREAU",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Lt"
   },
   {
     "Item": "COLORANTE GOURMET 3 UNID",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "COMINO MOLIDO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
+  },
+  {
+    "Item": "COORS",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 12,
+    "Unidad": ""
+  },
+  {
+    "Item": "CORONA",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 12,
+    "Unidad": ""
   },
   {
     "Item": "CREMA DE COCO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "CREMA DE LECHE",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Lt"
   },
   {
     "Item": "CRUTONES",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "CUCHARA SOPA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "CUCHILLO DE MADERA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
+  },
+  {
+    "Item": "CUELLO NEGRO AMBAR",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 12,
+    "Unidad": ""
+  },
+  {
+    "Item": "CUELLO NEGRO STOUT",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 12,
+    "Unidad": ""
+  },
+  {
+    "Item": "DELIRIUM RED",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 9,
+    "Unidad": ""
   },
   {
     "Item": "DESENGRASANTE",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Lt"
   },
   {
     "Item": "EMPANADAS MECHADA COCTEL",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "EMPANADAS PAPA Y QUESO COCTEL",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "ENSALADA ACOMPAÑAMIENTO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "ENSALADA CHILENA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "ENSALADA MIX",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "ENVASE COLACIÓN SIN DIVISIÓN",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "ENVASE DEGUSTACIÓN",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "ENVASE TORTA GRANDE",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "ENVOLTURA DE PAPEL PAPAS",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "ENVOLTURA HAMBURGUESA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "ESPONJA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "ESPUMANTE UNDURRUAGA",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 2,
+    "Unidad": "Lt"
   },
   {
     "Item": "ESPUMANTE VALDIVIESO",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 2,
+    "Unidad": "Lt"
+  },
+  {
+    "Item": "ESTRELLA DAMM",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 9,
+    "Unidad": ""
+  },
+  {
+    "Item": "ESTRELLA DE GALICIA",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 9,
+    "Unidad": ""
+  },
+  {
+    "Item": "FANTA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "FERNET BRANCA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Lt"
   },
   {
     "Item": "FIBRA PLATA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "FILETE",
     "Tipo de Proveedor": "CARNICERIA BUSTAMANTE",
     "Datos Proveedor": "NUMERO TELEFONO",
     "Frecuencia Compra": "QUNCENAL",
-    "Cantidad Minima": 4
+    "Cantidad Minima": 4,
+    "Unidad": "Kg"
   },
   {
     "Item": "FILETE TROZADO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "FLOR DE CAÑA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Lt"
   },
   {
     "Item": "FRUTILLAS",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "FRUTOS SECOS",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "GARBANZO BURGER",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "GARBANZO BURGER COCIDA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "GAS",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "GIN BEFEEATER",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 2,
+    "Unidad": "Lt"
   },
   {
     "Item": "GINEBRA BOLTON",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 0,
+    "Unidad": "Lt"
+  },
+  {
+    "Item": "GOOSE ISLAND IPA",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 12,
+    "Unidad": "Unid"
   },
   {
     "Item": "GUANTES DE VINILO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
+  },
+  {
+    "Item": "GULDEN DRAAK",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 4,
+    "Unidad": "Unid"
   },
   {
     "Item": "HAMBURGUESA COMPUESTA PRUEBA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "HARINA DE TRIGO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
+  },
+  {
+    "Item": "HEINEKEN",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
+  },
+  {
+    "Item": "HEINEKEN 0.0",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "HIELO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "HIELO FRAPPE",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "HIERBA BUENA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "HUEVO",
     "Tipo de Proveedor": "HUEVOS CAMPESTRE ONLINE",
     "Datos Proveedor": "https://huevoslacampestre.cl/products/pack-180-huevos-de-seleccion-premium?variant=39901341745289&currency=CLP&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gad_source=1&gclid=CjwKCAjwupGyBhBBEiwA0UcqaBA98zd_PJrq8tA0RD1VeJ0T7R9jlX1KOghRsWhqJk_G5unGRCS50RoC0jQQAvD_BwE",
     "Frecuencia Compra": "MENSUAL",
-    "Cantidad Minima": 180
+    "Cantidad Minima": 180,
+    "Unidad": "Unid"
+  },
+  {
+    "Item": "HUEVO FRITO",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "HUMO LIQUIDO",
     "Tipo de Proveedor": "LIDER ONLINE",
     "Datos Proveedor": "https://www.lider.cl/supermercado/product/sku/296873/gourmet-salsa-sabor-ahumado-botella?channable=050ee769640032393638373361&gad_source=1&gclid=CjwKCAjwupGyBhBBEiwA0UcqaG2590Hk1sPcpi3V78SOVCuEJ5S88gC-VMPvq2LeSmHay26n_kWcixoClikQAvD_BwE&gclsrc=aw.ds",
     "Frecuencia Compra": "MENSUAL",
-    "Cantidad Minima": 4
+    "Cantidad Minima": 4,
+    "Unidad": "Lt"
+  },
+  {
+    "Item": "Item",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "JABON LIQUIDO PARA MANOS",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Lt"
   },
   {
     "Item": "JACK DANIELS",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
   },
   {
     "Item": "JACK DANIELS APPLE",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
   },
   {
     "Item": "JACK DANIELS FIRE",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
   },
   {
     "Item": "JACK DANIELS HONEY",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
   },
   {
     "Item": "JAGGERMEISTER",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
   },
   {
     "Item": "JAMON",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "JARABE DE GOMA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Lt"
   },
   {
     "Item": "JARABE GRANADINA",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
+  },
+  {
+    "Item": "JENGIBRE",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "JIM BEAN 750CC",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
+  },
+  {
+    "Item": "KEM PIÑA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "KETCHUP",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "KETCHUP HEINZ",
     "Tipo de Proveedor": "LOGEAT ONLINE",
     "Datos Proveedor": "https://www.lider.cl/supermercado/product/sku/296873/gourmet-salsa-sabor-ahumado-botella?channable=050ee769640032393638373361&gad_source=1&gclid=CjwKCAjwupGyBhBBEiwA0UcqaG2590Hk1sPcpi3V78SOVCuEJ5S88gC-VMPvq2LeSmHay26n_kWcixoClikQAvD_BwE&gclsrc=aw.ds",
     "Frecuencia Compra": "MENSUAL",
-    "Cantidad Minima": 3
+    "Cantidad Minima": 3,
+    "Unidad": "Kg"
+  },
+  {
+    "Item": "KRIEK MAZ",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 6,
+    "Unidad": "Und"
+  },
+  {
+    "Item": "KROSS GOLDEN",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 12,
+    "Unidad": "LA NEGRA, TOST, BOOZ"
+  },
+  {
+    "Item": "KUNSMANT TOROBAYO 330",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "LAUREL",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "LAVALOZAS",
     "Tipo de Proveedor": "LIDER ONLINE",
     "Datos Proveedor": "https://www.lider.cl/supermercado/product/sku/761976/acuenta-lavalozas-limon-bidon-5-l",
     "Frecuencia Compra": "MENSUAL",
-    "Cantidad Minima": 10
+    "Cantidad Minima": 10,
+    "Unidad": "Lt"
   },
   {
     "Item": "LECHE CONDENSADA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "LECHE ENTERA LIQUIDA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Lt"
   },
   {
     "Item": "LECHUGA ESCAROLA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "LECHUGA HIDROPÓNICA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "LICOR DE BANANA",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
   },
   {
     "Item": "LICOR DE CACAO",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
   },
   {
     "Item": "LICOR DE CAFE",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
   },
   {
     "Item": "LICOR DE CEREZA",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
   },
   {
     "Item": "LICOR DE MENTA",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
   },
   {
     "Item": "LIMON",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "LIMON DESHIDRATADO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "LOMO CENTRO CERDO",
     "Tipo de Proveedor": "SAN PLABLO WHATSAPP",
     "Datos Proveedor": "SAN PABLO",
     "Frecuencia Compra": "QUNCENAL",
-    "Cantidad Minima": 3
+    "Cantidad Minima": 3,
+    "Unidad": "Kg"
   },
   {
     "Item": "LOMO LISO",
     "Tipo de Proveedor": "SAN PLABLO WHATSAPP",
     "Datos Proveedor": "SAN PABLO",
     "Frecuencia Compra": "QUNCENAL",
-    "Cantidad Minima": 3
+    "Cantidad Minima": 3,
+    "Unidad": "Kg"
+  },
+  {
+    "Item": "LOMO LISO CORTE LOMO SALTADO",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
+  },
+  {
+    "Item": "LONGANIZA COCIDA",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "LONGANIZA SCHWENCKE",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "MAIZENA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "MANGO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "MANTEQUILLA",
     "Tipo de Proveedor": "LIDER ONLINE",
     "Datos Proveedor": "https://www.lider.cl/supermercado/product/sku/2071/colun-mantequilla-con-sal-250-g",
     "Frecuencia Compra": "MESUAL",
-    "Cantidad Minima": 1
+    "Cantidad Minima": 1,
+    "Unidad": "Kg"
   },
   {
     "Item": "MANZANA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "MAYO KRAFT",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "MAYONESA PREPARADA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
+  },
+  {
+    "Item": "MEDALLÓN DE FILETE CON TOCINO Y SALSA DE CHAMPIÑONES",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "MERKEN",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
+  },
+  {
+    "Item": "MESTRA AMBER ALE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 12,
+    "Unidad": ""
   },
   {
     "Item": "MILANESA DE POLLO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
+  },
+  {
+    "Item": "MISIONES DE RENGO",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 2,
+    "Unidad": ""
   },
   {
     "Item": "MIX VEGETALES",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "MOSTAZA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "MOSTAZA DIJON",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "MOSTAZA HEINZ",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "NACHOS",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "NARANJA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "NOVA INDUSTRIAL",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "unid"
   },
   {
     "Item": "NUECES",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
+  },
+  {
+    "Item": "NUGGET DE PESCADO",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
+  },
+  {
+    "Item": "NUGGET DE SALMON",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "NUGGETS DE POLLO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "OLD PARR",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
   },
   {
     "Item": "ORÉGANO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "PALMITOS",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "PALTA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "kg"
   },
   {
     "Item": "PAN DE HAMBURGUESA",
     "Tipo de Proveedor": "LIDER ONLINE",
     "Datos Proveedor": "https://www.lider.cl/supermercado/product/sku/1091006/interbake-pan-hamburguesa-brioche-8-un - TOTTUS",
     "Frecuencia Compra": "SEMANAL",
-    "Cantidad Minima": 60
+    "Cantidad Minima": 60,
+    "Unidad": "Unid"
+  },
+  {
+    "Item": "PAN DE HOT DOG",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "PAN MARRAQUETA",
     "Tipo de Proveedor": "LIDER ONLINE",
     "Datos Proveedor": "https://www.lider.cl/supermercado/product/sku/1023488/lider-pan-precocido-marraqueta-atm-880-g",
     "Frecuencia Compra": "SEMANAL",
-    "Cantidad Minima": 32
+    "Cantidad Minima": 32,
+    "Unidad": "Kg"
   },
   {
     "Item": "PAPA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "PAPAS FINAS CONGELADAS",
     "Tipo de Proveedor": "WHATSAPP o GLOBAL FROZEN",
     "Datos Proveedor": "NUMERO PROVEEDOR",
     "Frecuencia Compra": "QUINCENAL",
-    "Cantidad Minima": 35
+    "Cantidad Minima": 35,
+    "Unidad": "Kg"
   },
   {
     "Item": "PAPAS FRITAS",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "unid"
   },
   {
     "Item": "PAPAS HILO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "PAPAS RUSTICAS CONGELADAS",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "PAPAS RÚSTICAS FRITAS",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "PAPEL ANTIGRASA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "PAPEL HIGIÉNICO INDUSTRIAL",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "PAPRIKA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
+  },
+  {
+    "Item": "PASTELES DE PIZZA",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "PASTILLAS BAÑO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "PEBRE",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "PECHUGA DE POLLO",
     "Tipo de Proveedor": "ONLINE",
     "Datos Proveedor": "https://agrocomercial.cl/producto/pechuga-desh-congelada-por-mayor/",
     "Frecuencia Compra": "QUINCENAL",
-    "Cantidad Minima": 20
+    "Cantidad Minima": 20,
+    "Unidad": "Kg"
+  },
+  {
+    "Item": "PECHUGA DE POLLO GRILLADA",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "PEPINILLOS",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "PEPINO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "PEREJIL",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
+  },
+  {
+    "Item": "PERONI NASTRO AZZURRO",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "PESTO DE ALBAHACA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "PIMENTON",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "PIMENTONES SALTEADOS",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "PIMENTÓN AMARILLO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "PIMIENTA LIMON",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "PIMIENTA NEGRA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
+  },
+  {
+    "Item": "PIMNETON",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "PINCHO BAMBÚ 15CM",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "PINCHOS BAMBÚ",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "PISCO ALTO DEL CARMEN 35",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 6,
+    "Unidad": "Lt"
   },
   {
     "Item": "PISCO ALTO DEL CARMEN 40",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 3,
+    "Unidad": "Lt"
   },
   {
     "Item": "PISCO HORCÓN QUEMADO 1 AÑO",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
   },
   {
     "Item": "PISCO HORCÓN QUEMADO 2 AÑOS",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
   },
   {
     "Item": "PIÑA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "PIÑA CONGELADA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "POLLO GANSO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
+  },
+  {
+    "Item": "POLLO STROGONOFF",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "POROTO VERDE",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "POTE CARTÓN IMPERMEABLE 12OZ",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "POTE ENSALADA 340GR",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
+  },
+  {
+    "Item": "PRIMAVERA CONGELADA",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "PUERRO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "PULPA DE CERDO",
     "Tipo de Proveedor": "SAN PABLO WHATSAPP",
     "Datos Proveedor": "SAN PABLO",
     "Frecuencia Compra": "QUINCENAL",
-    "Cantidad Minima": 3
+    "Cantidad Minima": 3,
+    "Unidad": "Kg"
   },
   {
     "Item": "PULPA DE FRAMBUESA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "PULPA DE FRUTILLA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "kg"
   },
   {
     "Item": "PULPA DE MANGO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "PULPA DE MARACUYA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "PULPA DE PIÑA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
+  },
+  {
+    "Item": "QUESADILLAS QUESO CHAMPIÑON",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "QUESO CHEDDAR",
     "Tipo de Proveedor": "LOGEAT ONLINE",
     "Datos Proveedor": "https://www.logeat.cl/products/queso-cheddar-lam-schrei-2-27kg",
     "Frecuencia Compra": "QUINCENAL",
-    "Cantidad Minima": 2
+    "Cantidad Minima": 2,
+    "Unidad": "KG"
   },
   {
     "Item": "QUESO CREMA",
     "Tipo de Proveedor": "LIDER ONLINE",
     "Datos Proveedor": "https://www.lider.cl/supermercado/product/sku/387158/lider-queso-crema-226-g",
     "Frecuencia Compra": "QUINCENAL",
-    "Cantidad Minima": 2
+    "Cantidad Minima": 2,
+    "Unidad": "Kg"
   },
   {
     "Item": "QUESO GOUDA",
     "Tipo de Proveedor": "LIDER ONLINE",
     "Datos Proveedor": "https://www.lider.cl/supermercado/product/sku/11534/lider-queso-gauda-laminado-250-g",
     "Frecuencia Compra": "QUINCENAL",
-    "Cantidad Minima": 2
+    "Cantidad Minima": 2,
+    "Unidad": "Kg"
   },
   {
     "Item": "QUESO PARMESANO",
     "Tipo de Proveedor": "FIAMBRERIAFAVORITA ONLINE",
     "Datos Proveedor": "https://fiambrerialafavorita.cl/producto/queso-parmesano-colun-precio-x-kilo/",
     "Frecuencia Compra": "QUINCENAL",
-    "Cantidad Minima": 2
+    "Cantidad Minima": 2,
+    "Unidad": "Kg"
   },
   {
     "Item": "RAMAZZOTTI",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
+  },
+  {
+    "Item": "RED BULL",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 6,
+    "Unidad": "Und"
+  },
+  {
+    "Item": "RED BULL SIN AZÚCAR",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 6,
+    "Unidad": "Und"
   },
   {
     "Item": "RED LABEL",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
   },
   {
     "Item": "RELLENO DE CHAMPIÑONES",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "ROMERO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "RON AÑEJO SANTA TERESA",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
   },
   {
     "Item": "RON BARCELÓ OSCURO",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 0,
+    "Unidad": "Lt"
   },
   {
     "Item": "RON BLANCO AÑEJO MITJANS",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 8,
+    "Unidad": "Lt"
   },
   {
     "Item": "RON HAVANA CLUB",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
+  },
+  {
+    "Item": "ROYAL GUARD",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 12,
+    "Unidad": ""
   },
   {
     "Item": "SACO PAPAS PEQUEÑO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "SAL",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "SAL DE LA CASA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "SAL GRUESA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "SALSA AJÍ CHILENO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "SALSA DE CHOCLO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "SALSA DE LA CASA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "SALSA DE LOMO SALTADO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "SALSA DE OSTION",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "SALSA DE QUESO CHEDDAR",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "SALSA DE QUESO HELMANNS",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "SALSA DE SOYA",
     "Tipo de Proveedor": "EATOUCH ONLINE",
     "Datos Proveedor": "https://eattouch.cl/app/resultado-busqueda?terminoBusqueda=SALA%20SOYA",
     "Frecuencia Compra": "MENSUAL",
-    "Cantidad Minima": 5
+    "Cantidad Minima": 5,
+    "Unidad": "Lt"
   },
   {
     "Item": "SALSA DE TOMATE",
     "Tipo de Proveedor": "LOGEAT ONLINE",
     "Datos Proveedor": "https://www.logeat.cl/products/ketchup-heinz-pouch-pack-3kg",
     "Frecuencia Compra": "MENSUAL",
-    "Cantidad Minima": 3
+    "Cantidad Minima": 3,
+    "Unidad": "Kg"
   },
   {
     "Item": "SALSA INGLESA",
     "Tipo de Proveedor": "AGRONEWEN ONLINE",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "MENSUAL",
-    "Cantidad Minima": 5
+    "Cantidad Minima": 5,
+    "Unidad": "Kg"
   },
   {
     "Item": "SALSA MARINARA FRASCO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "SALSA POMODORO",
     "Tipo de Proveedor": "LIDER ONLINE",
     "Datos Proveedor": "https://www.lider.cl/supermercado/product/sku/336860/great-value-salsa-tradicional-de-tomate?channable=050ee7696400333336383630a5&gad_source=1&gclid=CjwKCAjw5v2wBhBrEiwAXDDoJeVX5IZXXzdocd7E7LDowyNW5rNya0dCmBfMqfrdmuZfxfPPeMMrXRoCJ-wQAvD_BwE&gclsrc=aw.ds",
     "Frecuencia Compra": "MENSUAL",
-    "Cantidad Minima": 4
+    "Cantidad Minima": 4,
+    "Unidad": "Kg"
   },
   {
     "Item": "SALSA RANCH",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
+  },
+  {
+    "Item": "SCHWEPPES AGUA TÓNICA NOMAL",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 6,
+    "Unidad": ""
+  },
+  {
+    "Item": "SCHWEPPES AGUA TÓNICA SIN AZÚCAR",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 6,
+    "Unidad": ""
   },
   {
     "Item": "SEITAN TROCEADO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "SERVILLETAS INTERFOLIADAS",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "SERVILLETAS SERVICIO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "SILLAO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Lt"
   },
   {
     "Item": "SOBRECOSTILLA HUACHALOMO",
     "Tipo de Proveedor": "SAN PABLO WHATSAPP",
     "Datos Proveedor": "SAN PABLO",
     "Frecuencia Compra": "SEMANAL",
-    "Cantidad Minima": 10
+    "Cantidad Minima": 10,
+    "Unidad": "Kg"
   },
   {
     "Item": "SODA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Lt"
+  },
+  {
+    "Item": "SOJU JINRO",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
+  },
+  {
+    "Item": "SOPA MAGGIE",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "SOUR CREAM",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
+  },
+  {
+    "Item": "SPAGUETTI (COLACIÓN)",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
+  },
+  {
+    "Item": "SPRITE",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
+  },
+  {
+    "Item": "SPRITE ZERO",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "SRIRACHA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
+  },
+  {
+    "Item": "STELLA ARTOIS",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 6,
+    "Unidad": ""
+  },
+  {
+    "Item": "STELLA ARTOIS 30LT",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "SUCEDÁNEO DE LIMON",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Lt"
   },
   {
     "Item": "SURTIDO DE MARISCOS",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
+  },
+  {
+    "Item": "TABASCO",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "TAPA POTE DE IMPERMEABLE 12OZ",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "unid"
   },
   {
     "Item": "TAPAS (PAN TOSTADO)",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "TENEDOR DE MADERA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "TEQUEÑOS COCTEL",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "TEQUILA BUEN AMIGO",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 4,
+    "Unidad": "Lt"
   },
   {
     "Item": "TEQUILA DON JULIO REPOSADO",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
   },
   {
     "Item": "TEQUILA EL JIMADOR REPOSADO",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
   },
   {
     "Item": "TEQUILA HERRADURA AÑEJO",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
   },
   {
     "Item": "TEQUILA HERRADURA REPOSADO",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
   },
   {
     "Item": "TEQUILA JOSE CUERVO",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 2,
+    "Unidad": "Lt"
   },
   {
     "Item": "TEQUILA JOSE CUERVO REPOSADO",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
   },
   {
     "Item": "TEQUILA OLMECA CHOCOLATE",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
   },
   {
     "Item": "TEQUILA OLMECA REPOSADO",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
   },
   {
     "Item": "TOCINO",
     "Tipo de Proveedor": "DISTRIBUIDORA GK ONLINE",
     "Datos Proveedor": "https://www.distribuidoragk.cl/product/tocino-ahumado-laminado-don-chancho-1-kg",
     "Frecuencia Compra": "QUICENAL",
-    "Cantidad Minima": 2
+    "Cantidad Minima": 2,
+    "Unidad": "Kg"
+  },
+  {
+    "Item": "TOCINO TOSTADO",
+    "Tipo de Proveedor": "",
+    "Datos Proveedor": "PENDIENTE",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": "",
+    "Unidad": ""
   },
   {
     "Item": "TOMATE",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "TOMATE CHERRY",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "TOMATES CHERRY ASADOS",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "TORTILLAS",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "TRAPERO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Unid"
   },
   {
     "Item": "TRUTRO ENTERO",
     "Tipo de Proveedor": "SAN PABLO WHATSAPP",
     "Datos Proveedor": "SAN PABLO",
     "Frecuencia Compra": "QUINCENAL",
-    "Cantidad Minima": 4
+    "Cantidad Minima": 4,
+    "Unidad": "Kg"
   },
   {
     "Item": "TÁRTARA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "VERMOUTH ROSSARD ROSSO",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Lt"
   },
   {
     "Item": "VINAGRE",
     "Tipo de Proveedor": "LIDER ONLINE",
     "Datos Proveedor": "https://www.lider.cl/supermercado/product/sku/1013016/lider-vinagre-de-vino-blanco?channable=050ee769640031303133303136f6&gad_source=1&gclid=CjwKCAjwupGyBhBBEiwA0UcqaFEdRFAVZdi3tNBrViEO5g1LKzbNCiKEPAR-Mfx1KVEhFGvjMUTPjRoCPQUQAvD_BwE&gclsrc=aw.ds",
     "Frecuencia Compra": "MENSUAL",
-    "Cantidad Minima": 5
+    "Cantidad Minima": 5,
+    "Unidad": "Lt"
   },
   {
     "Item": "VINAGRE DE VINO TINTO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Lt"
   },
   {
     "Item": "VINO BLANCO SANTA ELENA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Lt"
+  },
+  {
+    "Item": "VINO CABERNET S CASTILLO DE MOLINA GRAN RESERVA",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 2,
+    "Unidad": "Lt"
+  },
+  {
+    "Item": "VINO CARMENERE CASTILLO DE MOLINA GRAN RESERVA",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 2,
+    "Unidad": "Lt"
+  },
+  {
+    "Item": "VINO CHARDONNAY CASTILLO DE MOLINA GRAN RESERVA",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Frecuencia Compra": "",
+    "Cantidad Minima": 2,
+    "Unidad": "Lt"
   },
   {
     "Item": "VINO TINTO COCINA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Lt"
   },
   {
     "Item": "VODKA ERISTOFF",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 6,
+    "Unidad": "Lt"
   },
   {
     "Item": "VODKA ERISTOFF BLACK",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 3,
+    "Unidad": "Lt"
   },
   {
     "Item": "VOKA STOLI BLANCO",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": 1,
+    "Unidad": "Lt"
   },
   {
     "Item": "WHISKY JB",
-    "Tipo de Proveedor": "",
-    "Datos Proveedor": "PENDIENTE",
+    "Tipo de Proveedor": "LA NEGRA, TOST, BOOZ",
+    "Datos Proveedor": "LA NEGRA, TOST, BOOZ",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Lt"
   },
   {
     "Item": "ZANAHORIA",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "ZAPALLO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "ZAPALLO ITALIANO",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Kg"
   },
   {
     "Item": "ZUMO DE LIMON",
     "Tipo de Proveedor": "",
     "Datos Proveedor": "PENDIENTE",
     "Frecuencia Compra": "",
-    "Cantidad Minima": ""
+    "Cantidad Minima": "",
+    "Unidad": "Lt"
   }
 ]
